@@ -1,0 +1,11 @@
+[submodule "vip/themes/blist-hugo-theme"]
+	path = vip/themes/blist-hugo-theme
+	url = https://github.com/apvarun/blist-hugo-theme
+[submodule "vip/public"]
+	path = vip/public
+	url = https://github.com/valourinpride/valourinpride.github.io.git
+	branch = main
+[submodule "vip/valourinpride.github.io"]
+	path = vip/valourinpride.github.io
+	url = https://github.com/valourinpride/valourinpride.github.io.git
+	branch = main

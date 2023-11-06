@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/valourinpride/valourinpride.github.io.git
+[submodule "themes/blist-hugo-theme"]
+	path = themes/blist-hugo-theme
+	url = https://github.com/apvarun/blist-hugo-theme
